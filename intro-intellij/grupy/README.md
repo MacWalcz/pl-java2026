@@ -1,8 +1,9 @@
 Grupa nr IAS:
-GitHub: MacWalcz (GitLab: McWalcz)
-GitHub: vladyslavsigma   (GitLab: @vshpyhariev )
-GitHub: ApeFiction (GitLab: ApeFiction)
+GitHub: MacWalcz (GitLab: @McWalcz)
+GitHub: vladyslavsigma (GitLab: @vshpyhariev )
+GitHub: ApeFiction (GitLab: @ApeFiction)
 GitHub: MikitaKarabeika (GitLab:  @Niktoninn )
-GitHub: Krakengard  (GitLab: )
+GitHub: Krakengard  (GitLab: @Krakengard )
+
 
 
